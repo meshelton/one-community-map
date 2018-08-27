@@ -15,7 +15,7 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
-          <CensusMap width={500} height={500}/>
+          <CensusMap/>
       </div>
     );
   }
