@@ -1,3 +1,6 @@
+This app will be the map for the one community project. It currently shows a pannable map of brooklyn with the census tracts drawn on top of it. What needs to be done now is determine the best format that the data should be saved into and served as so this app can display it. The comments in the CensusMap.tsx file should explain some of the possible approaches to this. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
